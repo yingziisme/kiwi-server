@@ -1,0 +1,5 @@
+.idea/**
+.DS_Store
+**/__pycache__/*
+models/SenseVoiceSmall/model.pt
+*.mp3
